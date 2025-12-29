@@ -1,1 +1,2 @@
-This is my 01_main.txt
+This is my 01_main.txt - nice
+Hi 
